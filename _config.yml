@@ -1,0 +1,28 @@
+name: akphen
+favicon: null
+layout_spectrum: 0.5306641533970833
+typography_spectrum: 0.6900655962526798
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6778706056065857
+  lightness: 0.6632330978754908
+  saturation: 0.2677572285756469
+  rhythmicContrast: 0.7070705459918827
+purpose: []
